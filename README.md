@@ -25,7 +25,7 @@ The form allows users to input `Gene1` and `Gene2`.
 ### 2. Query Result
 Displays the details of the queried gene pair when found.
 
-![Query Result](./output.png)
+![Query Result](./Output.png)
 
 ## Tech Stack
 - **Frontend**: HTML, CSS
