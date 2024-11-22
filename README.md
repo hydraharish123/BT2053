@@ -4,6 +4,7 @@ This project was created as part of the **BT2053: Big Data Biology and Databases
 
 ## Table of Contents
 - [Overview](#overview)
+- [Screenshots](#Screenshots)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Database Structure](#database-structure)
@@ -13,6 +14,18 @@ This project was created as part of the **BT2053: Big Data Biology and Databases
 
 ## Overview
 The project uses a MySQL database to store gene interaction data. Users can input two genes (`gene1` and `gene2`) via a web form. If the provided genes exist in the `sl_interactions` table and the `expression_status` for `gene2` is `Yes`, the entire row is retrieved and displayed on the frontend.
+
+## Screenshots
+
+### 1. Input Form
+The form allows users to input `Gene1` and `Gene2`.
+
+![Input Form](./Frontend.png)
+
+### 2. Query Result
+Displays the details of the queried gene pair when found.
+
+![Query Result](./output.png)
 
 ## Tech Stack
 - **Frontend**: HTML, CSS
