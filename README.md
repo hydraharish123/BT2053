@@ -61,7 +61,7 @@ The database contains a table called `sl_interactions` with the following column
    - Place the project folder (containing `index.html`, PHP scripts, and any assets) into the `htdocs` directory of your XAMPP installation.
 
 4. **Configure the database connection**:
-   - Open the PHP script handling the SQL queries (e.g., `query.php`).
+   - Open the PHP script handling the SQL queries (e.g., `insert.php`).
    - Update the database connection details:
      ```php
      $servername = "localhost";
