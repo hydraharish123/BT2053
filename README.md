@@ -20,12 +20,12 @@ The project uses a MySQL database to store gene interaction data. Users can inpu
 ### 1. Input Form
 The form allows users to input `Gene1` and `Gene2`.
 
-![Input Form](./Frontend.png)
+![Input Form](./Frontend.jpeg)
 
 ### 2. Query Result
 Displays the details of the queried gene pair when found.
 
-![Query Result](./Output.png)
+![Query Result](./output.jpeg)
 
 ## Tech Stack
 - **Frontend**: HTML, CSS
