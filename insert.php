@@ -6,7 +6,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>BT2053: Practical BT23BTECH11016</h1>
+        <h1>BT2053: Practical</h1>
         <?php
         // Database connection
         $conn = mysqli_connect("localhost", "root", "", "csv_db 7");
